@@ -1,0 +1,10 @@
+ 1 Atta 30 5
+ 2 Rice 35 4
+ 3 Dal/Pulses 45 3
+ 4 Salt 18 0
+ 5 Sugar 50 5
+ 6 Garam_Masala 15 2
+ 7 Pudina_Masala 15 2
+ 8 Mirchi_Masala 15 2
+ 9 Haldi 20 3
+ 10 Chips 20 2
